@@ -1,0 +1,21 @@
+@media (min-width:768px) {
+  .container {
+    width: 100%;
+    max-width: 640px;
+  }
+
+  /* HEADER */
+
+
+  /* INTRO */
+
+  .intro__inner {
+    margin: 5vh auto;
+  }
+
+  /* SECTION PRICE */
+
+  /* FOOTER */
+
+
+}
